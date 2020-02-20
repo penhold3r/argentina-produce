@@ -1,29 +1,8 @@
-# arg
+# Argentina Produce
 
-## Project setup
-```
-npm install
-```
+[![VueJs 2.6.*](https://img.shields.io/static/v1.svg?label=VueJS&message=2.6.x&color=41B883)](https://vuejs.org/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Built with [VueJS](https://vuejs.org/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-  sass
+-  i18n

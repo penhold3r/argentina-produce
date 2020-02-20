@@ -1,0 +1,496 @@
+{
+	"label": "Español",
+	"nav": ["Inicio", "Empresa", "Productos", "Contacto"],
+	"hero": {
+		"id": "inicio",
+		"title": "Trabajamos por la calidad",
+		"text": "<p>Valorizamos la unión de esfuerzos.</p><p>Aseguramos que nuestra fruta reúna esta pasión y la potencie.</p><p>Somos una cadena de valor.</p><p>Cosechamos cada fruto como si fuera el único, para asegurar que cada producto llegue a su mesa como recién cosechado.</p>"
+	},
+	"about": {
+		"id": "empresa",
+		"title": "Nuestra Empresa",
+		"text": "Somos una Empresa jóven con una gran experiencia. Nuestros productos son de calidad superior, gracias a la capacidad y experiencia de nuestros productores. El empaque y el proceso de frío se realiza con la más avanzada tecnología. Trabajamos para darle lo mejor a nuestros clientes.",
+		"gallery": "Ver Imágenes"
+	},
+	"products": {
+		"id": "productos",
+		"title": "Productos",
+		"months": [
+			"Ene",
+			"Feb",
+			"Mar",
+			"Abr",
+			"May",
+			"Jun",
+			"Jul",
+			"Ago",
+			"Sep",
+			"Oct",
+			"Nov",
+			"Dic"
+		],
+		"list": {
+			"fruits": {
+				"title": "Frutas",
+				"items": [
+					{
+						"name": "Manzanas",
+						"image": "apple.jpg",
+						"types": [
+							{
+								"name": "Royal Gala",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Red Delicious",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							},
+							{
+								"name": "Red Chief",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							},
+							{
+								"name": "Red Atwood 34",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							},
+							{
+								"name": "Red Angius 28",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							},
+							{
+								"name": "Golden Delicious",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Granny Smith",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							},
+							{
+								"name": "Pink Lady",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": false },
+									{ "month": "mar", "pickup": false },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							}
+						]
+					},
+					{
+						"name": "Limón",
+						"image": "lemon.jpg",
+						"types": [
+							{
+								"name": "Eureka",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": false },
+									{ "month": "mar", "pickup": false },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							}
+						]
+					},
+					{
+						"name": "Ciruela",
+						"image": "plum.jpg",
+						"types": [
+							{
+								"name": "Angeleno",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": false },
+									{ "month": "may", "pickup": false },
+									{ "month": "jun", "pickup": false },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Larry Ann",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": false },
+									{ "month": "may", "pickup": false },
+									{ "month": "jun", "pickup": false },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							}
+						]
+					},
+					{
+						"name": "Ciruela Ceca",
+						"image": "dry-plum.jpg",
+						"types": [
+							{
+								"name": "D'Agen",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							},
+							{
+								"name": "Presidente",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": true }
+								]
+							}
+						]
+					},
+					{
+						"name": "Pera",
+						"image": "pear.jpg",
+						"types": [
+							{
+								"name": "Williams - Bartlett",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": false },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Red Bartlett",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": false },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Red Sensation",
+								"harvest": [
+									{ "month": "ene", "pickup": true },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": false },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": false },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "D'Anjou",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Packham's",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Abate Fetel",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": true },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							},
+							{
+								"name": "Beurre Bosque",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": false },
+									{ "month": "mar", "pickup": true },
+									{ "month": "abr", "pickup": true },
+									{ "month": "may", "pickup": true },
+									{ "month": "jun", "pickup": true },
+									{ "month": "jul", "pickup": true },
+									{ "month": "ago", "pickup": true },
+									{ "month": "sep", "pickup": true },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": false },
+									{ "month": "dic", "pickup": false }
+								]
+							}
+						]
+					},
+					{
+						"name": "Frutos Rojos",
+						"image": "berries.jpg",
+						"types": [
+							{
+								"name": "Blue Berries",
+								"harvest": [
+									{ "month": "ene", "pickup": false },
+									{ "month": "feb", "pickup": false },
+									{ "month": "mar", "pickup": false },
+									{ "month": "abr", "pickup": false },
+									{ "month": "may", "pickup": false },
+									{ "month": "jun", "pickup": false },
+									{ "month": "jul", "pickup": false },
+									{ "month": "ago", "pickup": false },
+									{ "month": "sep", "pickup": false },
+									{ "month": "oct", "pickup": true },
+									{ "month": "nov", "pickup": true },
+									{ "month": "dic", "pickup": false }
+								]
+							}
+						]
+					}
+				]
+			},
+			"wines": {
+				"title": "Vinos",
+				"items": [
+					{
+						"name": "Malbec",
+						"type": "red",
+						"image": "malbec.jpg",
+						"text": "Malbec encontraste a la vera de la Cordillera de Los Andes, en aquel paisaje formidable de clima árido y seco, tú poesía, tú máxima expresión. Tu piel de color oscuro intenso y, tus taninos dulces y sedosos nos envuelven en tu eterno resplandor."
+					},
+					{
+						"name": "Bonarda",
+						"type": "red",
+						"image": "bonarda.jpg",
+						"text": "Supiste con elegancia demostrarnos la calidad de tu labor, desapercibida por algunos. Bajo el sol intenso, a altas temperaturas trabajas con esfuerzo y dedicación en los campos mendocinos. Eres franco y honesto, siendo la profundidad con la que te expresas tu signo revelador."
+					},
+					{
+						"name": "Cabernet Sauvignon",
+						"type": "red",
+						"image": "cabernet.jpg",
+						"text": "Fuiste, eres y serás el rey de los tintos. Elegante y complejo en todas tus formas. De joven te mueves con aspereza, de carácter impulsivo y duro. Con el correr de los años supiste con nobleza alcanzar tu plenitud. El arte de conocerte es toda una experiencia, mezcla de pasión y nostalgia que despierta nuestro ser adormecido."
+					},
+					{
+						"name": "Syrah",
+						"type": "red",
+						"image": "syrah.jpg",
+						"text": "Tu fama es indiscutible. Tu personalidad ácida, sólida y vigorosa dejan ver la influencia tánica que alimenta tu equilibrio. Viniste a conquistar este pequeño y extraordinario mundo, con pasos firmes recorriste sus calles dejando tu huella exorbitante evocando memorias olvidadas en los amantes del vino."
+					},
+					{
+						"name": "Merlot",
+						"type": "red",
+						"image": "merlot.jpg",
+						"text": "Tu cuerpo joven y tu impaciencia revelan la elegancia y delicadeza de una expresión distinta. Tu aroma suave como la miel y tu sonrisa seductora hacen de todo hombre un prisionero de tu esencia."
+					},
+					{
+						"name": "Pinot Noir",
+						"type": "red",
+						"image": "pinot.jpg",
+						"text": "Expresión de noches oscuras, síntesis de mágica experiencia… eres complicada, pero de figura impactante. Seduces con tú carácter versátil, tu presencia estremece y transforma el recuerdo en ilusión del ser!"
+					},
+					{
+						"name": "Torrontés",
+						"type": "white",
+						"image": "torrontes.jpg",
+						"text": "Sos joven y temperamental… tu origen autóctono se traduce en el orgullo de tu tierra generosa que supo brindarte lo mejor de sí, sos la exquisita combinación de fragancias florales y especiadas. Tu alma desafiante provoca, y tu suave fluir conquista."
+					},
+					{
+						"name": "Chardonnay",
+						"type": "white",
+						"image": "chardonnay.jpg",
+						"text": "De destino impredecible, desde tu etapa más temprana se revela la potencialidad de tu ser, te adaptás a las necesidades de espíritus inquietos, sos la expresión natural de sentimientos profundos."
+					}
+				]
+			}
+		}
+	},
+	"contact": {
+		"id": "contacto",
+		"title": "Contáctanos",
+		"form": {
+			"name": "Tu Nombre",
+			"email": "Tu E-mail",
+			"message": "Mensaje",
+			"send": "Enviar"
+		}
+	}
+}
